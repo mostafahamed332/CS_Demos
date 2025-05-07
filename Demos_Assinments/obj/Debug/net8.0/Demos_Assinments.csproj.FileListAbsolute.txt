@@ -1,0 +1,14 @@
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\bin\Debug\net8.0\Demos_Assinments.exe
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\bin\Debug\net8.0\Demos_Assinments.deps.json
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\bin\Debug\net8.0\Demos_Assinments.runtimeconfig.json
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\bin\Debug\net8.0\Demos_Assinments.dll
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\bin\Debug\net8.0\Demos_Assinments.pdb
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\Demos_Assinments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\Demos_Assinments.AssemblyInfoInputs.cache
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\Demos_Assinments.AssemblyInfo.cs
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\Demos_Assinments.csproj.CoreCompileInputs.cache
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\Demos_Assinments.dll
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\refint\Demos_Assinments.dll
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\Demos_Assinments.pdb
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\Demos_Assinments.genruntimeconfig.cache
+C:\Users\mosta\Desktop\C# Assignmint\Demos_Assinments_Demo\Demos_Assinments\obj\Debug\net8.0\ref\Demos_Assinments.dll
